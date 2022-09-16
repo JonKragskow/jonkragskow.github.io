@@ -4,5 +4,5 @@ collection: publications
 date: 2020-04-18
 venue: 'Inorganic Chemistry'
 url: 'https://pubs.acs.org/doi/10.1021/acs.inorgchem.0c00470'
-citation: 'C. A. P. Goodwin, B. L. L. Réant, G. F. Vettese, J. G. C. Kragskow, M. J. Giansiracusa, I. M. Dimucci, K. M. Lancaster, D. P. Mills, S. Sproules, Inorg. Chem., 2020, 59, 7571–7583.'
+citation: 'C. A. P. Goodwin, B. L. L. Réant, G. F. Vettese, J. G. C. Kragskow, M. J. Giansiracusa, I. M. Dimucci, K. M. Lancaster, D. P. Mills, S. Sproules, <i>Inorg. Chem.</i>, 2020, 59, 7571–7583.'
 ---
