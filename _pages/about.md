@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 I obtained my an MChem and PhD in Chemistry from the University of Manchester
-in 2018 and 2022 working in the Chilton Group. My research investigated the
+in 2018 and 2022 working in the [Chilton Group](https://www.nfchilton.com). My research investigated the
 role of spin-phonon coupling in the electronic and magnetic properties of
 lanthanide single molecule magnets and qubits.
 
