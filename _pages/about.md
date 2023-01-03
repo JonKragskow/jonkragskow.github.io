@@ -7,10 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-In January 2023 I will take up a post-doctoral research position at the
-University of Bath with Dr Elizaveta Suturina, where I shall work on
-the accurate and robust simulation of paramagnetic nuclear magnetic
-resonance spectra.
+As of January 2023 I am Research Associate at the University of Bath working for Dr Elizaveta Suturina. My research aims to improve the accurate and robust simulation of paramagnetic nuclear magnetic resonance spectra.
 
 I obtained my MChem and PhD degrees in Chemistry at the University of Manchester in 2018 and 2022 working in the Chilton Group. My work focussed on the modelling of spin-phonon coupling in the electronic and magnetic properties of lanthanide single molecule magnets and qubits.
 
