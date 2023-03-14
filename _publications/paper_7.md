@@ -1,5 +1,5 @@
 ---
-title: "Analysis of vibronic coupling in a 4f molecular magnet with FIRMS."
+title: "Analysis of vibronic coupling in a 4f molecular magnet with FIRMS"
 collection: publications
 date: 2022-02-11
 venue: 'Nature Communications'
