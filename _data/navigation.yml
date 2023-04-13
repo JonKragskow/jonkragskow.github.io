@@ -12,8 +12,5 @@ main:
   - title: "CV"
     url: /files/cv_jon_kragskow.pdf
     
-  - title: "Waveplot"
-    url: "https://www.waveplot.com"
-    
-  - title: "Magnetism-Tools"
-    url: "https://magnetism-tools.manchester.ac.uk/"
+  - title: "Software"
+    url: /software/
