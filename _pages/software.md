@@ -29,10 +29,10 @@ and I have subsequently rewritten the entire code as a more modular python packa
 -----
 
 A C++/Fortran90-95 program for calculating magnetic reversal rates in single molecule magnets using ab initio spin-phonon coupling data. I wrote `Tau` using some initial code
-written by Prof. Nicholas Chilton, and it is now worked on by other members of the Chilton Group.
+written by Prof. Nicholas Chilton. I no longer contribute to this project.
 
 `*_suite`
 ---------
 
 The `*_suite` codes are used by the Chilton group to work with various computational chemistry software packages. I wrote varying amounts of these with other members of the Chilton Group
-(Jakob Staab, Dr Letitia Birnoschi), and I personally wrote the entire CI/CD pipeline for all packages.
+(Jakob Staab, Dr Letitia Birnoschi), and I personally wrote the entire CI/CD pipeline for all packages. I no longer contribute to these projects.
