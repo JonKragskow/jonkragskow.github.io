@@ -3,19 +3,18 @@ title: "Software"
 permalink: /software/
 ---
 
-Here's a list of the software I've written. Unless stated otherwise, assume I'm the one who wrote it.
+Here's a list of the software I've written, nearly all of it is open-source.
 
 [Waveplot](https://www.waveplot.com/)
 --------
 
 An interactive wavefunction viewer made to demonstrate some simple concepts in quantum chemistry. Waveplot is written in python using Dash.
 
-[Magnetism-Tools](https://magnetism-tools.manchester.ac.uk/apps/atom_access_app)
+[AtomAccess](https://pypi.org/project/atom-access)
 -----------------
 
-A home for web-interfaces to software developed by the Chilton Group at the University of Manchester. Currently, Magnetism-Tools contains
-an interactive Tanabe-Sugano diagaram viewer, and AtomAccess; a ray-tracing program which quantifies the steric hindrance of reactive centres.
-Magnetism-Tools is written in python using Dash, and is hosted on a custom Apache web server (which I set up) at the University of Manchester.
+A python ray-tracing program which quantifies the steric hindrance of reactive centres. I rewrote AtomAccess from an initial version by Dr Gemma Gransbury,
+making the code considerably faster and much more modular. You can read more about the AtomAccess code and Gemma's results from using it [here](https://chemrxiv.org/engage/chemrxiv/article-details/63fc7370897b18336f2f9bd8). I also wrote a [web interface](https://magnetism-tools.manchester.ac.uk/apps/atom_access_app) for AtomAccess in python using Dash, and this is hosted on a custom Apache web server (which I set up) at the University of Manchester.
 
 [ccfit2](https://pypi.org/project/ccfit2/)
 -------
@@ -30,7 +29,13 @@ Tau
 A C++/Fortran90-95 program for calculating magnetic reversal rates in single molecule magnets using ab initio spin-phonon coupling data. I wrote `Tau` using some initial code
 written by Prof. Nicholas Chilton. I no longer contribute to this project.
 
-`*_suite`
+FIRMS_SIM
+---------
+
+A Fortran90-95 program for simulating far-infrared magnetospectroscopy spectra. I wrote `FIRMS_SIM` during the latter half of my PhD. You can see the results [here](https://www.nature.com/articles/s41467-022-28352-2).
+
+
+*_suite
 ---------
 
 The `*_suite` codes are used by the Chilton group to work with various computational chemistry software packages. I wrote varying amounts of these with other members of the Chilton Group
