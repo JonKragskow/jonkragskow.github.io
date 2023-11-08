@@ -1,8 +1,8 @@
 ---
-title: "Impact of Finite Phonon Lifetimes on the Spin Dynamics of Single-Molecule Magnets"
+title: "Accurate and Efficient Spin–Phonon Coupling and Spin Dynamics Calculations for Molecular Solids"
 collection: publications
-date: 2023-02-24
-venue: 'ChemRxiv'
-paperurl: 'https://chemrxiv.org/engage/chemrxiv/article-details/63f79207897b18336f03af6f'
-citation: 'R. Nabi, J. Staab, J. G. C. Kragskow, D. Reta, J. Skelton and N. F. Chilton, ChemRxiv, 2023. <b>This content is a preprint and has not been peer-reviewed.</b>'
+date: 2023-09-11
+venue: 'Journal of the American Chemical Society'
+paperurl: 'https://pubs.acs.org/doi/10.1021/jacs.3c06015'
+citation: 'R. Nabi, J. K. Staab, A. Mattioni, J. G. C. Kragskow, D. Reta, J. M. Skelton and N. F. Chilton, <i>J. Am. Chem. Soc.</i>, 2023, <b>XXX</b> XXX-XXX'
 ---
