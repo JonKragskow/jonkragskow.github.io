@@ -3,36 +3,32 @@ title: "Software"
 permalink: /software/
 ---
 
-Here's a list of the software I've written, nearly all of it is open-source.
+Here's a list of the software I've written, all of it is open-source.
 
 [Waveplot](https://www.waveplot.com/)
 --------
 
-An interactive wavefunction viewer made to demonstrate some simple concepts in quantum chemistry. Waveplot is written in python using Dash.
+An online wavefunction viewer which demonstrates simple concepts in quantum chemistry. Waveplot is built with students in mind and features the model quantum systems they encounter in introductory quantum chemistry. Students can manipulate input variables, plots, and download raw data to use in their own work.
 
 [AtomAccess](https://pypi.org/project/atom-access)
 -----------------
 
-A python ray-tracing program which quantifies the steric hindrance of reactive centres. I rewrote AtomAccess from an initial version by Dr Gemma Gransbury,
-making the code considerably faster and much more modular. You can read more about the AtomAccess code and Gemma's results from using it [here](https://pubs.acs.org/doi/10.1021/jacs.3c08841). I also wrote a [web interface](https://magnetism-tools.manchester.ac.uk/apps/atom_access_app) for AtomAccess in python using Dash, and this is hosted on a custom Apache web server (which I set up) at the University of Manchester.
+A python package which quantifies steric hindrance at chemical centres using raytracing. I wrote AtomAccess to be fast and user-friendly through either its simple [web-interface](https://magnetism-tools.manchester.ac.uk/apps/atom_access_app), or through command-line and scripting.
 
 [ccfit2](https://pypi.org/project/ccfit2/)
 -------
 
-A python package which makes processing magnetometry data easy. Currently, `ccfit2` can work with AC susceptibility, DC decay, and DC Waveform data.
-`ccfit2` also has the capability to fit magnetic reversal rate data to various phenomenological models. There is a user-friendly command line interface available,
-along with a slimmed down executable version for users who don't want to use a terminal. Dr Daniel Reta originally wrote `ccfit2` while in the Chilton Group. I completely rewrote `ccfit2` from scratch in version `5.0.0` and it is now a modular python package which can be either used through its command line interface, or imported into other python scripts and programs.
+A python package for working with experimental magnetometry data. Users can input a magnetometer output file and obtain a fitted plot of their data using a single command and an interactive interface. Thanks to its modular design and rich documentation, `ccfit2` can be included in users own python code with ease. 
 
 Tau
 ---
 
-A C++/Fortran90-95 program for calculating magnetic reversal rates in single molecule magnets using ab initio spin-phonon coupling data. I wrote `Tau` using some initial code
-written by Prof. Nicholas Chilton.
+A C++/Fortan90 program for the simulation of magnetic relaxation rates. Tau uses ab initio spin-phonon coupling data to accurately simulate magnetic relaxation under a range of conditions using a semi-classical master equation.
 
 FIRMS_SIM
 ---------
 
-A Fortran90-95 program for simulating far-infrared magnetospectroscopy spectra. I wrote `FIRMS_SIM` during the latter half of my PhD. You can see the results [here](https://www.nature.com/articles/s41467-022-28352-2).
+A Fortran90 program for simulating far-infrared magnetospectroscopy spectra. I wrote `FIRMS_SIM` during the latter half of my PhD. You can see the results [here](https://www.nature.com/articles/s41467-022-28352-2).
 
 
 *_suite
