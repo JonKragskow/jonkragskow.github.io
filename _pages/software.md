@@ -14,7 +14,7 @@ An interactive wavefunction viewer made to demonstrate some simple concepts in q
 -----------------
 
 A python ray-tracing program which quantifies the steric hindrance of reactive centres. I rewrote AtomAccess from an initial version by Dr Gemma Gransbury,
-making the code considerably faster and much more modular. You can read more about the AtomAccess code and Gemma's results from using it [here](https://chemrxiv.org/engage/chemrxiv/article-details/63fc7370897b18336f2f9bd8). I also wrote a [web interface](https://magnetism-tools.manchester.ac.uk/apps/atom_access_app) for AtomAccess in python using Dash, and this is hosted on a custom Apache web server (which I set up) at the University of Manchester.
+making the code considerably faster and much more modular. You can read more about the AtomAccess code and Gemma's results from using it [here](https://pubs.acs.org/doi/10.1021/jacs.3c08841). I also wrote a [web interface](https://magnetism-tools.manchester.ac.uk/apps/atom_access_app) for AtomAccess in python using Dash, and this is hosted on a custom Apache web server (which I set up) at the University of Manchester.
 
 [ccfit2](https://pypi.org/project/ccfit2/)
 -------
