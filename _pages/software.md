@@ -27,7 +27,7 @@ Tau
 ---
 
 A C++/Fortran90-95 program for calculating magnetic reversal rates in single molecule magnets using ab initio spin-phonon coupling data. I wrote `Tau` using some initial code
-written by Prof. Nicholas Chilton. I no longer contribute to this project.
+written by Prof. Nicholas Chilton.
 
 FIRMS_SIM
 ---------
