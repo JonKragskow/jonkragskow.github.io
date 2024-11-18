@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-As of January 2023 I am a [Research Associate](https://researchportal.bath.ac.uk/en/persons/jon-kragskow) at the University of Bath working for Dr Elizaveta Suturina. My research aims aims to improve the quality of information we can extract from paramagnetic nuclear magnetic resonance spectra using density functional theory, particularly for transition metal complexes.
+In September 2024 I began an independent lectureship at the University of Bath.
+
+From January 2023 to September 2024 I was a [Research Associate](https://researchportal.bath.ac.uk/en/persons/jon-kragskow) at the University of Bath working for Dr Elizaveta Suturina. My research aims aimed to improve the quality of information we can extract from paramagnetic nuclear magnetic resonance spectra using density functional theory, particularly for transition metal complexes.
 
 I obtained my MChem and PhD degrees in Chemistry at the University of Manchester in 2018 and 2022 working in the [Chilton Group](https://www.nfchilton.com). My work focussed on understanding the role of spin-phonon coupling in magnetic relaxation, principally in lanthanide single molecule magnets and qubits.
 
