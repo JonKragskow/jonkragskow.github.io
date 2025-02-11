@@ -40,11 +40,8 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-// This changes the code box
-.highlight {
-  margin: 0;
-  padding: 0.5em;
-  font-family: monospace;
-  font-size: small;
-  line-height: 1.8;
+pre, code {
+  font-size: medium; /* Adjust this value to your preference */
+  line-height: 1.5; /* Optional: increases the line spacing for better readability */
+  font-family: Consolas, "Courier New", monospace; /* Optional: sets a monospaced font */
 }
