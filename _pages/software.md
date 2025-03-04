@@ -18,7 +18,7 @@ A small python program which simplifies the submission of ORCA jobs to the Unive
 [AtomAccess](https://pypi.org/project/atom-access)
 -----------------
 
-A python package which quantifies steric hindrance at chemical centres using raytracing. I wrote AtomAccess to be fast and user-friendly through either its simple [web-interface](https://magnetism-tools.manchester.ac.uk/apps/atom_access_app), or through command-line and scripting.
+A python package which quantifies steric hindrance at chemical centres using raytracing. I wrote AtomAccess to be fast and user-friendly through either its simple [web-interface](https://atom-access.com), or through command-line and scripting.
 
 [ccfit2](https://pypi.org/project/ccfit2/)
 -------
