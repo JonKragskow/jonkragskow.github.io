@@ -15,7 +15,7 @@ An online wavefunction viewer which demonstrates simple concepts in quantum chem
 
 A small python program which simplifies the submission of ORCA jobs to the University of Bath's Nimbus cloud HPC.
 
-[AtomAccess](https://pypi.org/project/atom-access)
+[AtomAccess](https://package.atom-access.com/)
 -----------------
 
 A python package which quantifies steric hindrance at chemical centres using raytracing. I wrote AtomAccess to be fast and user-friendly through either its simple [web-interface](https://atom-access.com), or through command-line and scripting.
