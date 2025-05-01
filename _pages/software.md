@@ -10,7 +10,7 @@ Here's a list of the software I've written, all of it is open-source.
 
 An online wavefunction viewer which demonstrates simple concepts in quantum chemistry. Waveplot is built with students in mind and features the model quantum systems they encounter in introductory quantum chemistry. Students can manipulate input variables, plots, and download raw data to use in their own work.
 
-[Nimbus_Splash](https://www.kragskow.dev/nimbus_splash)
+[Nimbus_Splash](https://splash.kragskow.group/)
 --------
 
 A small python program which simplifies the submission of ORCA jobs to the University of Bath's Nimbus cloud HPC.
