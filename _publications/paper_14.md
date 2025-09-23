@@ -1,8 +1,8 @@
 ---
-title: "A direct comparison of lithium tetra(n-butyl) manganate(ii) and magnesiate: structural insights and catalytic hydroamination of styrenes"
+title: "Coercive Fields Exceeding 30 T in the Mixed-Valence Single-Molecule Magnet (CpiPr5)2Ho2I3"
 collection: publications
-date: 2025-09-05
-venue: 'Chemical Communications'
-paperurl: 'https://pubs.rsc.org/en/content/articlelanding/2025/cc/d5cc04144a'
-citation: 'R. S. Jones, T. Krämer, G. S. Nichol, M. F. Mahon, J. G. C. Kragskow, M. Uzelac'
+date: 2024-06-26
+venue: 'Journal of the American Chemical Society'
+paperurl: 'https://pubs.acs.org/doi/full/10.1021/jacs.4c06250'
+citation: 'H. Kwon, K. R. McClain, J. G. C. Kragskow, J. K. Staab, M. Ozerov, K. R. Meihaus, B. G. Harvey, E. S. Choi, N. F. Chilton, J. R. Long'
 ---
