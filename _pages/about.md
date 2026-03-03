@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-In January 2025 I began an independent lectureship at the University of Bath.
+In January 2025 I began an independent lectureship at the University of Bath. My research is focussed on the development of novel and user-friendly methods and programs for the quantification of chemical phenomena.
 
 From January 2023 to January 2025 I was a [Research Associate](https://researchportal.bath.ac.uk/en/persons/jon-kragskow) at the University of Bath working for Dr Elizaveta Suturina. My research aimed to improve the quality of information we could extract from paramagnetic nuclear magnetic resonance spectra using density functional theory, particularly for transition metal complexes.
 
